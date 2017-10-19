@@ -1,0 +1,2 @@
+# ocrdemo
+Baidu OCR Demo
